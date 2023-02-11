@@ -5259,9 +5259,10 @@ next-tick@1:
   version "1.0.0"
   resolved "https://registry.yarnpkg.com/next-tick/-/next-tick-1.0.0.tgz#ca86d1fe8828169b0120208e3dc8424b9db8342c"
 
-nipplejs@^0.8.7:
-  version "0.8.7"
-  resolved "https://registry.yarnpkg.com/nipplejs/-/nipplejs-0.8.7.tgz#da14db793bbe22f9ccb98aad7dbea2d0abf7cdb6"
+nipplejs@^0.10.0:
+  version "0.10.0"
+  resolved "https://registry.yarnpkg.com/nipplejs/-/nipplejs-0.10.0.tgz#46bdbe682998985113ebf96444d154f713e12f19"
+  integrity sha512-BYrPA2meyOrk59NZTwKpnbVWYE89kAuMy34hnmjNyW/JmmuQfUs/k7lJhdPgZUjI3ZU7xbASOjCeDLeIDD+8VQ==
 
 no-case@^2.2.0:
   version "2.3.2"
