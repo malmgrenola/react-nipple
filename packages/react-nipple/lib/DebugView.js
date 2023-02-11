@@ -159,9 +159,9 @@ var DebugView = (_temp = _class = function (_Component) {
             degree: _propTypes2.default.number
         }),
         direction: _propTypes2.default.shape({
-            x: _propTypes2.default.number,
-            y: _propTypes2.default.number,
-            angle: _propTypes2.default.number
+            x: _propTypes2.default.string,
+            y: _propTypes2.default.string,
+            angle: _propTypes2.default.string
         }),
         force: _propTypes2.default.number,
         pressure: _propTypes2.default.number,

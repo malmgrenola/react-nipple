@@ -13,9 +13,9 @@ export default class DebugView extends Component {
                 degree: PropTypes.number
             }),
             direction: PropTypes.shape({
-                x: PropTypes.number,
-                y: PropTypes.number,
-                angle: PropTypes.number
+                x: PropTypes.string,
+                y: PropTypes.string,
+                angle: PropTypes.string
             }),
             force: PropTypes.number,
             pressure: PropTypes.number,
