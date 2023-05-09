@@ -5259,10 +5259,10 @@ next-tick@1:
   version "1.0.0"
   resolved "https://registry.yarnpkg.com/next-tick/-/next-tick-1.0.0.tgz#ca86d1fe8828169b0120208e3dc8424b9db8342c"
 
-nipplejs@^0.10.0:
-  version "0.10.0"
-  resolved "https://registry.yarnpkg.com/nipplejs/-/nipplejs-0.10.0.tgz#46bdbe682998985113ebf96444d154f713e12f19"
-  integrity sha512-BYrPA2meyOrk59NZTwKpnbVWYE89kAuMy34hnmjNyW/JmmuQfUs/k7lJhdPgZUjI3ZU7xbASOjCeDLeIDD+8VQ==
+nipplejs@^0.10.1:
+  version "0.10.1"
+  resolved "https://registry.yarnpkg.com/nipplejs/-/nipplejs-0.10.1.tgz#64acbb71c5549bcbf96c587f806342e9e7da67f9"
+  integrity sha512-BuKBDfdd7BVK6E7sivHwrRPh9TETsHuHEwuT95nAjRz2uJu5roYngNs+BdRe8nYf8mP6OZ9aRqdgMlqVsDMRcw==
 
 no-case@^2.2.0:
   version "2.3.2"
